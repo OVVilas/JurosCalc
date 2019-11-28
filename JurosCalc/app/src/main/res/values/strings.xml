@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JurosCalc</string>
+    <string name="bem_vindo_ao_juroscalc">Bem Vindo ao JurosCalc!</string>
+    <string name="escolha_o_tipo_de_c_lculo_que_deseja_realizar">Escolha o tipo de cálculo que deseja realizar:</string>
+    <string name="juros_simples">Juros Simples</string>
+    <string name="juros_composto">Juros Composto</string>
+    <string name="desconto_simples">Desconto Simples</string>
+    <string name="capital">Capital :</string>
+    <string name="taxa">Taxa :</string>
+    <string name="tempo">Tempo :</string>
+    <string name="porcent">%</string>
+    <string name="calcular">Calcular</string>
+    <string name="voltar">Voltar</string>
+    <string name="resultado">Resultado:</string>
+    <string name="meses">Meses</string>
+    <string name="taxa_m_s">Taxa/Mês</string>
+    <string name="juros_total">Juros total:</string>
+    <string name="textview">TextView</string>
+    <string name="juros_ao_m_s">Juros ao mês:</string>
+    <string name="taxa_m_ss">Taxa/Mês :</string>
+    <string name="valor_nominal">Valor nominal :</string>
+    <string name="nota_o_modo_paisagem_pode_apresentar_falhas_utilize_o_modo_retrato">Nota: o modo paisagem pode apresentar falhas. Utilize o modo retrato.</string>
+</resources>
